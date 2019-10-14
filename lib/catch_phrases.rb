@@ -16,9 +16,9 @@ end
 
 def any_phrase
   
-  status = "Do A Barrel Roll!"
+  phrase = "Do A Barrel Roll!"
   
-  puts status
+  puts phrase
   
 end
 
