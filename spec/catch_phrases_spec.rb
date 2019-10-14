@@ -19,7 +19,7 @@ describe "link" do
 end
 
 describe "any_phrase" do
-  it "puts out 'Do A Barrel Roll'" do
+  it "puts out 'Do A Barrel Roll!'" do
     expect{any_phrase(phrase)}.to output("Do A Barrel Roll!\n").to_stdout
   end
 end
